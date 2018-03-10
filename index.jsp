@@ -31,52 +31,7 @@
 		 </div>
 	 </section>
 
-	 <!-- <section id="booking">
-		 <div class="container">
-     <h1>Where To go?</h1>
-		 <form>
-		 <input type="text" placeholder="Enter the destination">
-     <button type="car" class="button1">CAR</button>
-			 <button type="Bus" class="button1">BUS</button>
-				 <button type="Train" class="button1">TRAIN </button>
-			 </form>
-
-		<ul>
-			 <li>Car</li>
-			 <li>Bus</li>
-			 <li>Train</li>
-		 </ul> 
-
-
-		 </div> -->
-<!-- 
-	 </section>
-
-		 <section id="content">
-			 <div class="container">
-       <div class="content1">
-				 <img src="/home/bds/Documents/Travi/img/ai.png" >
-				 <h3>AI powered </h3>
-         <p>  </p>
-			 </div>
-
-			 <div class="content1">
-				 <img src="/home/bds/Documents/Travi/img/realtime.png" >
-         <h3>Real time suggestion </h3>
-				 <p> </p>
-
-			 </div>
-
-
-				<div class="content1">
-					<img src="/home/bds/Documents/Travi/img/food.png" >
-
-          <h3> Food Delivery </h3>
-				<p>  </p>
-
-				</div>
-
-		 </section> -->
+	
 </body>
 </html>
     

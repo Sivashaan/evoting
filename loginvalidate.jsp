@@ -46,29 +46,7 @@ out.println("Invalid password try again");
 		</div>
    </header>
 
-	 <section id ="tagnamec">
-<!-- 		 <div class="container">
- -->     <!--  <h1>Your Vote Your  Voice  </h1> -->
-      
-      
-      <div class="login">
- <!-- <form method="post" action="loginvalidate.jsp">
-            
-  <header>Login</header><br/>
-  <label>Username <span>*</span></label>
-  <input type="text" name="name" />
-  
-  <label>Password <span>*</span></label>
-  <input type="password" name="password"/>
-
-  
- 
- <input type="submit" value="Login" />
- <input type="reset" value="Reset" />
- -->
-		 </div>
-	 </section>
-
+	
 
 
 
